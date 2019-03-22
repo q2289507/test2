@@ -12,6 +12,7 @@ namespace clase1
 
         static void Main(string[] args)
         {
+            Console.WriteLine("HOLA MUNDO");
         }
     }
 }
